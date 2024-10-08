@@ -1,0 +1,65 @@
+{
+  "data": [
+    {
+      "figi": "BBG000B9WH68",
+      "name": "SWOOP HOLDINGS LTD",
+      "ticker": "SWP",
+      "exchCode": "AU",
+      "compositeFIGI": "BBG000B9WH68",
+      "securityType": "Common Stock",
+      "marketSector": "Equity",
+      "shareClassFIGI": "BBG001S5N9D6",
+      "securityType2": "Common Stock",
+      "securityDescription": "SWP"
+    },
+    {
+      "figi": "BBG000B9WHH6",
+      "name": "RINO INTERNATIONAL CORP",
+      "ticker": "RINO",
+      "exchCode": "US",
+      "compositeFIGI": "BBG000B9WHH6",
+      "securityType": "Common Stock",
+      "marketSector": "Equity",
+      "shareClassFIGI": "BBG001S5N964",
+      "securityType2": "Common Stock",
+      "securityDescription": "RINO"
+    },
+    {
+      "figi": "BBG000B9WHK2",
+      "name": "SWOOP HOLDINGS LTD",
+      "ticker": "SWP",
+      "exchCode": "AT",
+      "compositeFIGI": "BBG000B9WH68",
+      "securityType": "Common Stock",
+      "marketSector": "Equity",
+      "shareClassFIGI": "BBG001S5N9D6",
+      "securityType2": "Common Stock",
+      "securityDescription": "SWP"
+    },
+    {
+      "figi": "BBG000B9WHR5",
+      "name": "AP MOLLER-MAERSK A/S-B",
+      "ticker": "DP4B",
+      "exchCode": "GR",
+      "compositeFIGI": "BBG000B9WHR5",
+      "securityType": "Common Stock",
+      "marketSector": "Equity",
+      "shareClassFIGI": "BBG001S5NDG4",
+      "securityType2": "Common Stock",
+      "securityDescription": "DP4B"
+    },
+    {
+      "figi": "BBG000B9WJ46",
+      "name": "AP MOLLER-MAERSK A/S-B",
+      "ticker": "DP4B",
+      "exchCode": "GF",
+      "compositeFIGI": "BBG000B9WHR5",
+      "securityType": "Common Stock",
+      "marketSector": "Equity",
+      "shareClassFIGI": "BBG001S5NDG4",
+      "securityType2": "Common Stock",
+      "securityDescription": "DP4B"
+    }
+  ],
+  "next": "QW9JSVA0QUFBQ3hDUWtjd01EQkNPVmhIT0RjPSAx.GBOYBwM96NhbR85/Smm9Cn/YyFz/M/WRBw7/mEVC5DI="
+}
