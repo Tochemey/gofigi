@@ -1,5 +1,8 @@
 # gofigi
 
+
+[![codecov](https://codecov.io/gh/Tochemey/gofigi/graph/badge.svg?token=vbFBbfgcrD)](https://codecov.io/gh/Tochemey/gofigi)
+
 Go binding for [OpenFIGI API v3](https://www.openfigi.com/api#v3).
 
 ## Overview
@@ -11,7 +14,7 @@ and benefits from better rate limiting an account and token are required. The go
 
 ## Installation
 ```bash
-go get github.com/tochemey-lab/gofigi
+go get github.com/tochemey/gofigi
 ```
 
 ## Features
@@ -33,5 +36,5 @@ To contribute please:
 ### Testing and Linter
 Prior to submitting a [pull request](https://help.github.com/articles/using-pull-requests), please run:
 ```bash
-earthly +all
+go test -mod=vendor ./... -race -coverprofile=coverage.out -covermode=atomic -coverpkg=./...
 ```

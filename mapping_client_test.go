@@ -1,7 +1,7 @@
 /*
  * MIT License
  *
- * Copyright (c) 2024 tochemey-lab
+ * Copyright (c) 2024 tochemey
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -36,20 +36,20 @@ import (
 	"github.com/google/uuid"
 	"github.com/stretchr/testify/suite"
 
-	"github.com/tochemey-lab/gofigi/model"
+	"github.com/tochemey/gofigi/model"
 )
 
-type mappingsSuite struct {
+type mappingsClientSuite struct {
 	suite.Suite
 }
 
 // In order for 'go test' to run this suite, we need to create
 // a normal test function and pass our suite to suite.Run
-func TestMappings(t *testing.T) {
-	suite.Run(t, new(mappingsSuite))
+func TestMappingsClient(t *testing.T) {
+	suite.Run(t, new(mappingsClientSuite))
 }
 
-func (s *mappingsSuite) TestMappings() {
+func (s *mappingsClientSuite) TestMappings() {
 	s.Run("with happy path", func() {
 		// create the context
 		ctx := context.TODO()

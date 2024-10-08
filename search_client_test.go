@@ -1,7 +1,7 @@
 /*
  * MIT License
  *
- * Copyright (c) 2024 tochemey-lab
+ * Copyright (c) 2024 tochemey
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -36,7 +36,7 @@ import (
 	"github.com/google/uuid"
 	"github.com/stretchr/testify/suite"
 
-	"github.com/tochemey-lab/gofigi/model"
+	"github.com/tochemey/gofigi/model"
 )
 
 type searchClientSuite struct {

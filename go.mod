@@ -1,4 +1,4 @@
-module github.com/tochemey-lab/gofigi
+module github.com/tochemey/gofigi
 
 go 1.23.2
 
